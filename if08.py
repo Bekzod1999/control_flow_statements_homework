@@ -22,5 +22,3 @@ def main(a):
         else:
             a = 'two-digit even number'
     return a
-x = main(0)
-print(x)
